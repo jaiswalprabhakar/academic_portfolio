@@ -603,3 +603,20 @@ figure.cover {
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
 }
+
+/*******************************************************************************
+ * 🐾 Custom paw-print cursor
+ ******************************************************************************/
+
+body {
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'><g fill='%23d97b3f'><ellipse cx='16' cy='22' rx='7' ry='6'/><ellipse cx='7' cy='14' rx='3' ry='4'/><ellipse cx='14' cy='9' rx='3' ry='4'/><ellipse cx='19' cy='9' rx='3' ry='4'/><ellipse cx='25' cy='14' rx='3' ry='4'/></g></svg>")
+    16 16, auto;
+}
+
+a,
+button,
+.btn,
+[role="button"] {
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'><g fill='%23b85c28'><ellipse cx='16' cy='22' rx='7' ry='6'/><ellipse cx='7' cy='14' rx='3' ry='4'/><ellipse cx='14' cy='9' rx='3' ry='4'/><ellipse cx='19' cy='9' rx='3' ry='4'/><ellipse cx='25' cy='14' rx='3' ry='4'/></g></svg>")
+    16 16, pointer;
+}

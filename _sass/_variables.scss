@@ -32,6 +32,14 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+// 🐾 Cat theme palette
+$cream-color: #faf3e8 !default; // warm cream background (light mode)
+$charcoal-color: #2e2a26 !default; // sleek charcoal text
+$calico-orange: #d97b3f !default; // warm tortoiseshell orange (main accent)
+$calico-orange-dark: #b85c28 !default; // deeper orange for hover states
+$calico-cream-dark: #1e1b18 !default; // warm near-black background (dark mode)
+$calico-text-dark: #f0e6d8 !default; // warm off-white text (dark mode)
+
 // Theme colors
 
 $code-bg-color-light: rgba($purple-color, 0.05);
@@ -39,6 +47,8 @@ $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
+// Background image path
+$site-bg-image: "/assets/img/cat-bg.jpg";
 
 // Back To Top button config
 $back-to-top-z-index: 10;

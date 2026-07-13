@@ -206,3 +206,9 @@
     crossorigin="anonymous"
   >
 {% endif %}
+<!-- 🐾 Cat background image -->
+<style>
+  body::before {
+    background-image: url("{{ '/assets/img/cat-bg.jpg' | relative_url }}");
+  }
+</style>
