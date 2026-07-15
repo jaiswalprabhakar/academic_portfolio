@@ -19,9 +19,9 @@ function determineGiscusTheme() {
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
     "data-repo": "jaiswalprabhakar/academic_portfolio",
-    "data-repo-id": "",
-    "data-category": "Comments",
-    "data-category-id": "",
+    "data-repo-id": "R_kgDOR2xmtw",
+    "data-category": "Announcements",
+    "data-category-id": "DIC_kwDOR2xmt84DBQSc",
     "data-mapping": "title",
     "data-strict": "1",
     "data-reactions-enabled": "1",
