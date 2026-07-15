@@ -1,0 +1,1 @@
+Atul Dhamija contributed to the SUN project, GUJCOST 2.0, and GUJCOST 1.0, leading the overall mechanical design. Currently working as a Data Analyst at John Deere.

@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "members of the lab or group",
+          description: "Collaborators and teammates I&#39;ve worked with on various projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/academic_portfolio/people/";
@@ -433,16 +433,22 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/academic_portfolio/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/academic_portfolio/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-wrapped-up-my-role-as-assistant-manager-at-vedanta-ltd-to-pursue-full-time-preparation-for-gate",
+          title: 'Wrapped up my role as Assistant Manager at Vedanta Ltd. to pursue full-time...',
+          description: "",
+          section: "News",},{id: "news-cleared-gate-2026-with-scores-of-664-ee-and-617-ec",
+          title: 'Cleared GATE 2026 with scores of 664 (EE) and 617 (EC). 🎉',
+          description: "",
+          section: "News",},{id: "news-cleared-upsc-engineering-services-examination-ese-2026-prelims-preparing-for-mains-next",
+          title: 'Cleared UPSC Engineering Services Examination (ESE) 2026 Prelims — preparing for Mains next....',
+          description: "",
+          section: "News",},{id: "news-joined-the-integrated-circuits-and-systems-ics-m-tech-program-at-iit-bombay",
+          title: 'Joined the Integrated Circuits and Systems (ICS) M.Tech program at IIT Bombay. 🐾...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
