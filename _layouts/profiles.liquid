@@ -6,7 +6,7 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
-        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+        <div class="profile profile-person float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
             {% if profile.image_circular %}
@@ -32,5 +32,13 @@ layout: page
         </div>
       {% endfor %}
     {% endif %}
+
+  <style>
+  .profile-person img {
+    max-width: 100px; // 🐾 controls People page photo size — change this
+    box-shadow: none !important;
+    border-radius: 4px;
+  }
+  </style>
   </article>
 </div>
