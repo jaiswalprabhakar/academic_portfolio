@@ -5,6 +5,7 @@ date: 2026-07-15 00:00:00-0000
 description: On the surprisingly real physics behind why your cat can fold into literally any container
 tags: cats
 categories: fun
+giscus_comments: true
 related_posts: false
 ---
 
