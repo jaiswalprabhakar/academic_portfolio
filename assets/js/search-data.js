@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/academic_portfolio/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-cats-are-liquid-a-scientific-investigation",
+        
+          title: "Cats Are Liquid — A Scientific Investigation",
+        
+        description: "On the surprisingly real physics behind why your cat can fold into literally any container",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/academic_portfolio/blog/2026/cats-are-liquid/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         

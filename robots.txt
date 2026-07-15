@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/jaiswalprabhakar.github.io/academic_portfolio/sitemap.xml
+Sitemap: https://jaiswalprabhakar.github.io/academic_portfolio/sitemap.xml
