@@ -68,9 +68,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true
+serve_schema_org: true
+og_image: /assets/img/og-image.jpg
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -107,10 +107,10 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
-  category: Comments # name of the category under which discussions will be created
-  category_id: # leave empty or specify your category_id (see https://giscus.app/)
+  repo: jaiswalprabhakar/academic_portfolio # <your-github-user-name>/<your-github-repo-name>
+  repo_id: R_kgDOR2xmtw # leave empty or specify your repo_id (see https://giscus.app/)
+  category: Announcements # name of the category under which discussions will be created
+  category_id: DIC_kwDOR2xmt84DBQSc # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title # identify discussions by post title
   strict: 1 # use strict identification mode
   reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
