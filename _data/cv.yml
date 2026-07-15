@@ -15,7 +15,6 @@ cv:
       username: prabhakar-jaiswal-463673198
 
   address:
-    #street: 
     city: Munger
     region: Bihar
     postalCode: IN 811201
@@ -24,10 +23,10 @@ cv:
   sections:
     Education:
       - institution: Indian Institute of Technology Bombay
-        location: Mumbai, Maharastra
+        location: Mumbai, Maharashtra
         url: https://www.iitb.ac.in/
-        area: Integrated Circuits and System
-        studyType: M.tech 
+        area: Integrated Circuits and Systems
+        studyType: M.Tech
         start_date: 2026
         end_date: 2029
         score: ""
@@ -37,10 +36,10 @@ cv:
           - Description 2.
 
       - institution: NIT Surat (SVNIT)
-        location: Surat, Gujrat
+        location: Surat, Gujarat
         url: https://www.svnit.ac.in/
         area: Electrical Engineering
-        studyType: B.tech
+        studyType: B.Tech
         start_date: 2019
         end_date: 2023
         score: "8.45"
@@ -54,76 +53,102 @@ cv:
         location: Jharsuguda, Odisha
         start_date: 2023-09-22
         end_date: 2025-07-01
-        summary: Electrical Maintenance Engineer KPI include Automation, SCADA, PLC Systems, Managing Breakdown, RCA, FMEA, Man power management   
+        summary: Electrical Maintenance Engineer. KPIs included Automation, SCADA, PLC Systems, breakdown management, RCA, FMEA, and manpower management.
         highlights:
-          - In-house conversion of 22kg Ingot line to 10kg Ingot line saving aroun 5 Crores of company fund. 
-          - Runner up for best NEEV project title "Inhouse Rod feeder panel development" .
+          - In-house conversion of 22kg Ingot line to 10kg Ingot line, saving around 5 crores of company funds.
+          - Runner-up for best NEEV project, "In-house Rod Feeder Panel Development."
 
       - company: TVS Motor Company
         position: Research Intern
-        location: Hosur, Tamilnadu
+        location: Hosur, Tamil Nadu
         start_date: 2022-05-15
         end_date: 2022-07-12
         highlights:
-          - Developed working prototype of Electronically Adjustable Backrest for two wheeler
-          - Researched about Ergonics improvement of two wheeler seats.
-    #Volunteer:
-     # - company: People's Climate March
-      #  position: Lead Organizer
-       # location: Zurich, Switzerland
-        #start_date: 2014-04-01
-        #end_date: 2015-07-01
-        #summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        #highlights:
-         # - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-         # - "Men of the year 2014 by Time magazine"
+          - Developed a working prototype of an Electronically Adjustable Backrest for two-wheelers.
+          - Researched ergonomic improvements for two-wheeler seats.
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: UDAAN 1.0 Drone Challenge
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "Indian Institute of Technology (IIT) BHU"
+        date: 02/2023
+        awarder: IIT BHU
+        summary: Secured first runner-up position at the UDAAN 1.0 Drone Challenge.
 
-      - title: Max Planck Medal
+      - title: GUJCOST Robofest 3.0 — Swarm Drones Category
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "GUJCOST"
+        date: TBD
+        awarder: GUJCOST
+        summary: Received ₹50,000 assistance for developing a Proof of Concept under the Swarm Drones category.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: SVNIT ASHINE Startup Cell Funding
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - "SVNIT Surat ASHINE"
+        date: TBD
+        awarder: SVNIT Surat ASHINE Startup Cell
+        summary: Received funding for two projects — SUN (Surveillance using UAV Network) and OSEM — from the SVNIT Surat ASHINE startup cell.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: GUJCOST Robofest 2.0 — Stage 1 & 2
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - "GUJCOST"
+        date: TBD
+        awarder: GUJCOST
+        summary: Consolation prize of ₹50,000 in Stage 2, and ₹50,000 assistance prize in Stage 1.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: NXP AIM Online Design Challenge — Top 10 Finalist
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - "NXP"
+        date: TBD
+        awarder: NXP
+        summary: Selected as a Top 10 finalist among 600+ participants.
+
+      - title: GKDC EV Concept Challenge 2020 — Winner
+        authors:
+          - "GKDC"
+        date: 2020
+        awarder: GKDC
+        summary: Winner of the EV Concept Challenge.
+
+      - title: Young Scientist India 2016 — Chennai Finalist
+        authors:
+          - "Space Kidz India"
+        date: 2016
+        awarder: Space Kidz India
+        summary: Selected for Young Scientist India 2016 and participated in the Chennai finals.
+
+      - title: CBSE National Level Science Fair 2016 — State Level Winner
+        authors:
+          - "CBSE"
+        date: 2016
+        awarder: CBSE
+        summary: Participated at the national level in New Delhi; won at the state level.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Digital Design
+        level: ""
+        icon: fa-solid fa-microchip
+        keywords: "Verilog, VHDL"
+
+      - name: Embedded Systems
+        level: ""
+        icon: fa-solid fa-microchip
+        keywords: "STM32, Atmel"
+
+      - name: Programming Languages
+        level: ""
+        icon: fa-solid fa-code
+        keywords: "C, C++, Python"
+
+      - name: EDA Tools
+        level: ""
+        icon: fa-solid fa-wrench
+        keywords: "Intel Quartus, Altium"
+
+      - name: Other Tools
+        level: ""
+        icon: fa-solid fa-toolbox
+        keywords: "ROS, Linux, Git, Blender"
 
     Languages:
       - name: Hindi
@@ -133,40 +158,39 @@ cv:
         summary: "Fluent"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: VLSI & Chip Design
+        icon: fa-solid fa-microchip
+        keywords: "Digital IC Design, FPGA, ASIC, PCB Design"
+
+      - name: Personal
+        icon: fa-solid fa-heart
+        keywords: "Cats, Badminton, Chess"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: GATE EE 2026 — Score 664
+        date: 2026-01-01
+        issuer: GATE
+        icon: fa-solid fa-certificate
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: GATE EC 2026 — Score 617
+        date: 2026-01-01
+        issuer: GATE
+        icon: fa-solid fa-certificate
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: SUN — Surveillance using UAV Network
+        summary: Custom quadcopter flight controller firmware for swarm operation, built from scratch on an STM32 chip with auto-level, altitude hold, GPS hold, return-to-home, and wireless camera features. Team project involving mesh communication (NRF24L01) and ArUco marker-based localization across a 5-drone swarm.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Auto-level, Altitude Hold, GPS Hold, Return to Home
+          - Swarm mesh communication and camera-based localization
+        start_date: TBD
+        end_date: TBD
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Shweta Shah
+        icon: fa-solid fa-chalkboard-user
+        reference: "Associate Professor, Electronics Engineering Department (ECED), SVNIT Surat — Project/Thesis Guide. Email: snshah@eced.svnit.ac.in"
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Sanjay Tolani
+        icon: fa-solid fa-chalkboard-user
+        reference: "Assistant Professor, Electrical Engineering Department (EED), SVNIT Surat — Project/Thesis Guide. Email: sanjay.tolani@eed.svnit.ac.in"

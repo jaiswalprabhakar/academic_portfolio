@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jaiswalprabhakar
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - jaiswalprabhakar/Leetcode_editorial
+  - jaiswalprabhakar/Node_MCU_Car
+  - jaiswalprabhakar/PIPILIKA
+  - jaiswalprabhakar/NXP_AIM_2021
+  - jaiswalprabhakar/Extended-kalman-filter 
+  - jaiswalprabhakar/color_based_sorting
+  - jaiswalprabhakar/Realtime-object-detection-yolov3

@@ -1,0 +1,1 @@
+Harsh Agrawal worked on the OSEM project (B.Tech final year project), handling firmware and electrical design. 

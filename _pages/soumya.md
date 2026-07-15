@@ -1,0 +1,1 @@
+Soumya Gupta worked on writing firmware for the SUN project and GUJCOST 2.0, serving as an overall partner throughout the project. Currently employed as a Software Development Engineer at Wells Fargo.

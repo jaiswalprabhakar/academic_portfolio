@@ -1,0 +1,1 @@
+Himanshu Pandey worked on the OSEM project, focusing on machine learning and cloud deployment.
