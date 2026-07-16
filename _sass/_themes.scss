@@ -13,9 +13,9 @@
   --global-theme-color: #{v.$calico-orange};
   --global-hover-color: #{v.$calico-orange-dark};
   --global-hover-text-color: #{v.$white-color};
-  --global-footer-bg-color: #{v.$grey-color-dark};
-  --global-footer-text-color: #{v.$grey-color-light};
-  --global-footer-link-color: #{v.$white-color};
+  --global-footer-bg-color: rgba(#{color.channel(v.$cream-color, "red", $space: rgb)}, #{color.channel(v.$cream-color, "green", $space: rgb)}, #{color.channel(v.$cream-color, "blue", $space: rgb)}, 0.85);
+  --global-footer-text-color: #{v.$charcoal-color};
+  --global-footer-link-color: #{v.$calico-orange-dark};
   --global-distill-app-color: #{v.$grey-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{v.$white-color};
@@ -83,9 +83,9 @@ html[data-theme="dark"] {
   --global-theme-color: #{v.$calico-orange};
   --global-hover-color: #{v.$calico-orange-dark};
   --global-hover-text-color: #{v.$white-color};
-  --global-footer-bg-color: #{v.$grey-color-light};
-  --global-footer-text-color: #{v.$grey-color-dark};
-  --global-footer-link-color: #{v.$black-color};
+  --global-footer-bg-color: rgba(#{color.channel(v.$calico-cream-dark, "red", $space: rgb)}, #{color.channel(v.$calico-cream-dark, "green", $space: rgb)}, #{color.channel(v.$calico-cream-dark, "blue", $space: rgb)}, 0.85);
+  --global-footer-text-color: #{v.$calico-text-dark};
+  --global-footer-link-color: #{v.$calico-orange};
   --global-distill-app-color: #{v.$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{v.$grey-900};

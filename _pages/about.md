@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: <a href='#'>IIT Bombay ICS 29'</a>. SVNIT EE 23'. Engineer. Love Cats. 
+og_image: /assets/img/og-image.jpg
 profile:
   align: right
   image: prof_pic.png
