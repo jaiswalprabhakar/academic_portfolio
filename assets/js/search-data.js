@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/academic_portfolio/blog/";
               },
-            },{id: "post-cats-are-liquid-a-scientific-investigation",
+            },{id: "post-the-robot-that-swam-like-a-cuttlefish",
+        
+          title: "The Robot That Swam Like a Cuttlefish",
+        
+        description: "Revisiting an underwater robot I built years ago, and why I never wrote about it until now",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/academic_portfolio/blog/2026/the-robot-that-swam-like-a-cuttlefish/";
+          
+        },
+      },{id: "post-cats-are-liquid-a-scientific-investigation",
         
           title: "Cats Are Liquid — A Scientific Investigation",
         
@@ -506,6 +517,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/academic_portfolio/projects/9_project/";
+            },},{id: "projects-bio-inspired-underwater-robot-gujcost-robofest-2-0",
+          title: 'Bio-Inspired Underwater Robot (GUJCOST Robofest 2.0)',
+          description: "A cuttlefish-inspired underwater robot using undulating fin propulsion, built for GUJCOST Robofest 2.0",
+          section: "Projects",handler: () => {
+              window.location.href = "/academic_portfolio/projects/underwater-robot/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
