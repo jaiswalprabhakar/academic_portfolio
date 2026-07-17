@@ -70,7 +70,7 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true
 serve_schema_org: true
-og_image: /assets/img/og-image.jpg
+og_image: https://jaiswalprabhakar.github.io/academic_portfolio/assets/img/og-image.jpg
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
